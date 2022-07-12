@@ -17,7 +17,7 @@ main:
     url: '#talks'
     weight: 40
   - name: Dev Labs
-    url: 'https://chrisberno.ml'
+    url: 'https://labs-v001.web.app/'
     weight: 50
   - name: Contact
     url: '#contact'
