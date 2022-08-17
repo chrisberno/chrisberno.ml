@@ -1,4 +1,4 @@
-# [1-page Hugo Portfolio Website On Firebase - For Free!] (https://github.com/wowchemy/starter-hugo-academic)
+# [1-page Hugo Portfolio Website On Firebase - For Free!] (https://berno.ml)
 
 [![Screenshot](./chrisberno-website.jpg)](https://chrisberno.ml)
 
@@ -10,7 +10,12 @@ The Hugo **Academic Resumé Template** empowers you to easily create your job-wi
 
 ️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+**Dependencies**
+
+The following dependencies are installed on your local system:
+- GO: <span style="color:green">npm install go</span>  or <span style="color:green">$brew install go</span>
+- Firebase CLI: <span style="color:green">npm install firebase</span> or <span style="color:green">brew install --cask firebase-admin</span>
+- Hugo CLI: <span style="color:green">npm i hugo-cli</span> or <span style="color:green">brew install hugo</span>
 
 [Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://wowchemy.com/creators/).
 
