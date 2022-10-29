@@ -2,7 +2,7 @@
 
 [![Screenshot](./chrisberno-website.jpg)](https://chrisberno.ml)
 
-The Hugo **Academic Resumé Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+This Hugo && Firebase powered website template helps you create an simple, modern and efficient online profile to showcase your works, achievements, research, etc. In addition, it makes developing and sharing channels easy for you and your audiences to engage with and learn from and provide you with the freedom to share content away from the AUP/TOS of the major social media sites.
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
 [![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
