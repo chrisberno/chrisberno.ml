@@ -2,15 +2,18 @@
 
 [![Screenshot](./chrisberno-website.jpg)](https://chrisberno.ml)
 
-My Hugo && Firebase powered personal website template is a simple, modern and efficient online profile built to showcase my work, research, current challenges and past achievements. More than just an online portfolio, I'm working to make the information on this site easy to acess via channels and easy to reuse for anyone or anybot working on similar project and solving similar problems. 
+My Hugo && Firebase powered personal website template is a simple, modern and efficient online profile built to showcase my work, research, current challenges and past achievements. I'm continually working to make the information on this site easy to acess via channels and easy to reuse for anyone who wants to document their work, research projects or challenges. 
+
+Finally, the method I provide here is virtaully free to setup, deploy live on the internet and maintain. As long as you have access to broaddband and a keyborad, there's really no cost to run your own copy of this site. 
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
 [![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/chrisberno)
 
-️**Below are the system requirements and steps necessary to deploy a clone of my personal website and make a version of your own.**, making every site truly personalized ⭐⭐⭐⭐⭐
+️⭐⭐⭐⭐⭐ 
+**Below are the system requirements and steps necessary to deploy a clone of my personal website and make a version of your own.**.
 
-**Dependencies
+**Local System Dependencies
 
 The following dependencies are installed on your local system:
 - GO: <span style="color:green">npm install go</span>  or <span style="color:green">$brew install go</span>
