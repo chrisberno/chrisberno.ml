@@ -2,15 +2,15 @@
 
 [![Screenshot](./chrisberno-website.jpg)](https://chrisberno.ml)
 
-This Hugo && Firebase powered website template helps you create an simple, modern and efficient online profile to showcase your works, achievements, research, etc. In addition, it makes developing and sharing channels easy for you and your audiences to engage with and learn from and provide you with the freedom to share content away from the AUP/TOS of the major social media sites.
+My Hugo && Firebase powered personal website template is a simple, modern and efficient online profile built to showcase my work, research, current challenges and past achievements. More than just an online portfolio, I'm working to make the information on this site easy to acess via channels and easy to reuse for anyone or anybot working on similar project and solving similar problems. 
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
 [![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/chrisberno)
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+️**Below are the system requirements and steps necessary to deploy a clone of my personal website and make a version of your own.**, making every site truly personalized ⭐⭐⭐⭐⭐
 
-**Dependencies**
+**Dependencies
 
 The following dependencies are installed on your local system:
 - GO: <span style="color:green">npm install go</span>  or <span style="color:green">$brew install go</span>
