@@ -36,7 +36,7 @@ slides: example
 ---
 
 ## Background 
-All of a sudden, we, as internet users, produce and simultaneously have more data available to us than ever before. Raw, unstructured data dosen’t have much utility and as a result offers little value, however, data that’s structured and accessible can become an asset that solves problems, creates opportunity and provides real-world value.  
+All of a sudden we, as internet users, produce and simultaneously have more data available to us than ever before. Raw, unstructured data dosen’t have much utility and as a result offers little value, however, data that’s structured and accessible can become an asset that solves problems, creates opportunity and provides real-world value.  
 
 
 As modern web applications become more and more data driven, they are  increasingly consuming data from multiple sources. Headless seeks to help people without software engineering and data science training to become one of those sources and realize new, passive revenue streams that can add high margin revenue to the balance sheet faster and easier then ever before.
