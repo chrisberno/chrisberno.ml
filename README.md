@@ -2,9 +2,10 @@
 
 [![Screenshot](./chrisberno-website.jpg)](https://chrisberno.ml)
 
+## About This Repo
 My Hugo && Firebase powered personal website template is a simple, modern and efficient online profile built to showcase my work, research, current challenges and past achievements. I'm continually working to make the information on this site easy to acess via channels and easy to reuse for anyone who wants to document their work, research projects or challenges. 
 
-Finally, the method I provide here is virtaully free to setup, deploy live on the internet and maintain. As long as you have access to broaddband and a keyborad, there's really no cost to run your own copy of this site. 
+Finally, the method I provide here is virtaully free to setup, deploy live on the internet and maintain. As long as you have access to a PC and broadband, there's no out of pocket cost to run your own version of this site. 
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
 [![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  

@@ -1,16 +1,20 @@
 ---
-title: telemedicine.ml
-summary: An example of using the in-built project page.
+title: headless.ml
+summary: A curated suit of opensource data management tools & functions.
 tags:
 - Deep Learning
-- Post Pandemic
-date: "2020-03-28T13:59:00Z"
+- Headless
+- GraphQL
+- Directus
+- Data
+
+date: "2021-08-28T13:59:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Headless Icon by Flaticon
   focal_point: Smart
 
 links:
@@ -33,7 +37,7 @@ slides: example
 
 Where and how healthcare services are delivered post pandemic will continue to shift. Two (of countless) factors that will drive adoption of telemedicine applications are that traditional care settings are overwhelmed and better public understanding of how containment prevents spread of in our local communities.
 
-##Telemedicine Applications For Providers
+##Headless Data Systems & Applications For Developers
 
 [anytimepediatrics.com](https://anytimepediatrics.com/providers/)
 [doxy.me](https://doxy.me/)
