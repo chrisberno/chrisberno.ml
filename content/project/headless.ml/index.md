@@ -35,16 +35,22 @@ url_video: ""
 slides: example
 ---
 
-Where and how healthcare services are delivered post pandemic will continue to shift. Two (of countless) factors that will drive adoption of telemedicine applications are that traditional care settings are overwhelmed and better public understanding of how containment prevents spread of in our local communities.
-
-##Headless Data Systems & Applications For Developers
-
-[anytimepediatrics.com](https://anytimepediatrics.com/providers/)
-[doxy.me](https://doxy.me/)
+## Background 
+All of a sudden, we, as internet users, produce and simultaneously have more data available to us than ever before. Raw, unstructured data dosen’t have much utility and as a result offers little value, however, data that’s structured and accessible can become an asset that solves problems, creates opportunity and provides real-world value.  
 
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+As modern web applications become more and more data driven, they are  increasingly consuming data from multiple sources. Headless seeks to help people without software engineering and data science training to become one of those sources and realize new, passive revenue streams that can add high margin revenue to the balance sheet faster and easier then ever before.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+
+## Objectives
+
+The Headless API, powered by Directus, as an easy to use data structuring application for accessing, managing and visualizing all kinds of data. In addition to structuring that raw data, we seek to deliver a secure and scaleable framework for sharing and presenting it in a simple, orderly, and intuitive way that becomes useable for your own business and for other people and businesses willing to pay for it. Most importantly we’re leveraging core Directus technology that allows the owner of the data, you,  to maintain total control and authority over it. 
+
+By structuring and making data available for consumption by third parties,  it’s transformed into an asset that can be monitized in other words, your data becomes a product. With that outcome in mind, Headless is bing developed with ways and means to monetize your newly structured data by making it available to paying clients and processing payments based on usage, all done autonomously and with the intent of creating new, virtually passive income streams for small business owernes. 
+
+👉 Visit the project homepage: [headless.ml](https://headless.ml)
+
+👉 Visit the project api: [api.headless.ml](https://api.headless.ml)
+
+👉 Visit the [Github repo:](https://github.com/chrisberno/headless)
