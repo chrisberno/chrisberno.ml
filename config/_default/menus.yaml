@@ -25,7 +25,7 @@ main:
   - name: Docs
     url: 'https://docs-v01.web.app/'
     weight: 60
-    - name: API
+  - name: API
     url: 'https://api-chrisberno.web.app/'
     weight: 60
 
