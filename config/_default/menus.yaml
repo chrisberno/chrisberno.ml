@@ -22,8 +22,11 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-    - name: Docs
+  - name: Docs
     url: 'https://docs-v01.web.app/'
+    weight: 60
+    - name: API
+    url: 'https://api-chrisberno.web.app/'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
